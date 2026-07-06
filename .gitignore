@@ -6,3 +6,6 @@ coverage/
 *.log
 .env*
 !.env.example
+
+earth-topography-model.zip
+*.zip
