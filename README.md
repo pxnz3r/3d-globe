@@ -2,7 +2,7 @@
 
 **Interactive 3D WebGL Earth** featuring high-resolution topographic displacement mapping, a real-time atmospheric glow shader, and dynamic solar shadow casting.
 
-> **Live demo:** [https://SINdomX.github.io/3d-globe](https://SINdomX.github.io/3d-globe)
+> **Live demo:** [https://pxnz3r.github.io/3d-globe](https://pxnz3r.github.io/3d-globe)
 
 ---
 
