@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/** Full-viewport black backdrop for the 3D canvas. */
+html, body, #root {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  overflow: hidden;
+  font-family: 'Inter', system-ui, sans-serif;
+}

@@ -1,0 +1,6 @@
+{
+  "name": "3D Earth Topography Globe",
+  "description": "Interactive 3D WebGL Earth with topographic displacement, atmospheric glow, and real-time solar shadow casting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
